@@ -1,5 +1,5 @@
 ## Directional Gaussian smoothing method
-This repository contains Python code for testing Directional Gaussian smoothing method on the benchmark functions. This method was first introduced in the paer *A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization* by Jiaxin Zhang, Hoang Tran, Dan Lu and Guannan Zhang. 
+This repository contains Python code for testing Directional Gaussian smoothing method on the benchmark functions. This method was first introduced in the paper [*A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization*](https://arxiv.org/pdf/2002.03001.pdf) by Jiaxin Zhang, Hoang Tran, Dan Lu and Guannan Zhang. 
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poetâ€TMs pen,
