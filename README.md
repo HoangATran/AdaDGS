@@ -1,5 +1,12 @@
 ## Directional Gaussian smoothing method
+ [hlink](#id1) -  [hlink](#id2) -  [hlink](#id3) 
 This repository contains Python code for testing Directional Gaussian smoothing (DGS) method on high-dimensional benchmark functions. This method was first introduced in the paper [*A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization*](https://arxiv.org/pdf/2002.03001.pdf) by Jiaxin Zhang, Hoang Tran, Dan Lu and Guannan Zhang. 
+
+<a id="id1">fdfd</a> 
+
+<a id="id2">fdfd</a> 
+
+<a id="id3">fdfd</a> 
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poetâ€TMs pen,
