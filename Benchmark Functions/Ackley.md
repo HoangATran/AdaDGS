@@ -1,18 +1,14 @@
 ## Ackley function
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-This repository contains Python code for testing Directional Gaussian smoothing (DGS) method on high-dimensional benchmark functions. This method was first introduced in the paper [*A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization*](https://arxiv.org/pdf/2002.03001.pdf) by Jiaxin Zhang, Hoang Tran, Dan Lu and Guannan Zhang. 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(\bm{x}) = -a\exp\left(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} \right)
+-\exp\left( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)\right) + a + \exp(1)" title="\Large f(\bm{x}) = -a\exp\left(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} \right) -\exp\left( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)\right) + a + \exp(1)" />
 
 ### Features
-- Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
-- Gauss-Hermite quadrature for approximating DGS gradient
-- Backtracking line search for adaptively updating smoothing radius and step size 
-- (Optional) Random generation of smoothing directions to enhance exploration 
+
 
 ### Benchmark functions 
 
-The functions listed below are some of the common functions and datasets used for testing optimization algorithms. They are grouped according to similarities in their significant physical properties and shapes. Each page contains information about the corresponding function or dataset, as well as MATLAB and R implementations. 
+
 
 ### Related papers 
 
