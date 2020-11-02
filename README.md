@@ -11,6 +11,9 @@ This repository contains Python code for testing Directional Gaussian smoothing 
 
 ### Related papers 
 
+1. J. Zhang, H. Tran, D. Lu, G. Zhang, [A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization](https://arxiv.org/pdf/2002.03001.pdf), submitted. 
+2. H. Tran, G. Zhang, AdaDGS: An adaptive black-box optimization method with a nonlocal directional Gaussian smoothing gradient, submitted. 
+
 <a id="id1">fdfd</a> 
 
 <a id="id2">fdfd</a> 
