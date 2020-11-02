@@ -1,7 +1,6 @@
 ## Ackley function
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f({x}) = -a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} )
--\exp( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)) + a + \exp(1)" title="\Large f({x}) = -a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} ) -\exp( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)) + a + \exp(1)" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x) = -a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} ) -\exp( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)) + a + \exp(1)" title="\Large f({x}) = -a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^d z_i^2} ) -\exp( \frac{1}{d}\sum_{i=1}^d \cos(c z_i)) + a + \exp(1)" />
 
 ### Features
 
