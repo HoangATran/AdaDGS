@@ -1,6 +1,6 @@
 ## Ackley function
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x)=-a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^dz_i^2})-\exp(\frac{1}{d}\sum_{i=1}^d\cos(cz_i))+a+\exp(1)" title="Ackley" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x)=-a\exp\left(-b\sqrt{\frac{1}{d}\sum_{i=1}^dz_i^2}\right)-\exp(\frac{1}{d}\sum_{i=1}^d\cos(cz_i))+a+\exp(1)" title="Ackley" />
 
 ### Features
 
