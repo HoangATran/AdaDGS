@@ -1,7 +1,11 @@
-## Directional Gaussian smoothing method
+## Directional Gaussian smoothing (DGS) for blackbox optimization
 This repository contains Python code for testing Directional Gaussian smoothing (DGS) method on high-dimensional benchmark functions. This method was first introduced in the paper [*A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization*](https://arxiv.org/pdf/2002.03001.pdf) by Jiaxin Zhang, Hoang Tran, Dan Lu and Guannan Zhang. 
 
 ### Features
+- Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
+- Gauss-Hermite quadrature for approximating DGS gradient
+- Backtracking line search for adaptively updating smoothing radius and step size 
+- (Optional) Random generation of smoothing directions to enhance exploration 
 
 ### Benchmark functions 
 
