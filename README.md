@@ -9,24 +9,9 @@ This repository contains Python code for testing Directional Gaussian smoothing 
 
 ### Benchmark functions 
 
+The functions listed below are some of the common functions and datasets used for testing optimization algorithms. They are grouped according to similarities in their significant physical properties and shapes. Each page contains information about the corresponding function or dataset, as well as MATLAB and R implementations. 
+
 ### Related papers 
 
 1. J. Zhang, H. Tran, D. Lu, G. Zhang, [A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization](https://arxiv.org/pdf/2002.03001.pdf), submitted, 2020. 
-2. H. Tran, G. Zhang, AdaDGS: An adaptive black-box optimization method with a nonlocal directional Gaussian smoothing gradient, submitted, 2020. 
-
-<a id="id1">fdfd</a> 
-
-<a id="id2">fdfd</a> 
-
-<a id="id3">fdfd</a> 
-
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-Git and GitHub 192
-of code
-```
-Here is how you make [a link](https://www.wikiped\ ia.org/).
-![This is an image.](https://github.com/yihui/xar\ ingan/releases/download/v0.0.2/karl-moustache.jpg\ )
-
+2. H. Tran, G. Zhang, AdaDGS: An adaptive black-box optimization method with a nonlocal directional Gaussian smoothing gradient, submitted, 2020.
