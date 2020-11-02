@@ -2,7 +2,7 @@
 
 <img src="https://latex.codecogs.com/svg.latex?&space;f(x)=-a\exp(-b\sqrt{\frac{1}{d}\sum_{i=1}^dz_i^2})-\exp(\frac{1}{d}\sum_{i=1}^d\cos(cz_i))+a+\exp(1)" title="Ackley" />
 
-where ~~~ <img src="https://latex.codecogs.com/svg.latex?&space;a=20,b=0.2,c=2\pi" title="Ackley_param" />
+where <img src="https://latex.codecogs.com/svg.latex?&space;\ \ a=20,b=0.2,c=2\pi" title="Ackley_param" />
 
 ### Features
 
