@@ -1,6 +1,6 @@
 ## Rastrigin function
 
-<div align="center">  <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=10d+\sum_{i=1}^d[z_i^2-10\cos(2{\pi}z_i)]." title="Rastrigin" /> </div>
+<div align="center">  <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=10d+\sum_{i=1}^d[x_i^2-10\cos(2{\pi}x_i)]." title="Rastrigin" /> </div>
 
 The Rastrigin function represents highly multimodal landscapes with global structure.
 
