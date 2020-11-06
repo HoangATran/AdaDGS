@@ -1,6 +1,6 @@
 ## Alpine function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^d|x_i\sin(x_i)+0.1x_i|" title="alpine" />. </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^d|x_i\sin(x_i)+0.1x_i|" title="alpine" /> </div>
 
 This function represents multimodal landscapes with non-unique global optimum.
 
