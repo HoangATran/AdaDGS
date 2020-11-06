@@ -9,7 +9,7 @@ where <img src="https://latex.codecogs.com/svg.latex?&space;a=20,b=0.2,c=2\pi" t
 
 <div align="center"> 
   <img src="image/ackley.jpg" alt="ackley" height="400"/> &nbsp;&nbsp;&nbsp;
-  <img src="image/Ackley_error_plot.jpg" alt="error" height="360"/>
+  <img src="image/Ackley_error_plot.jpg" alt="error" height="380"/>
 </div>
 
 
