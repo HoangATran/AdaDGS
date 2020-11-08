@@ -8,7 +8,7 @@ The Quintic function represents multimodal landscapes with global structure.
 - Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0" title=" "/> &nbsp; with &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;x_i" title=" "/> &nbsp; being either &nbsp;<img src="https://latex.codecogs.com/svg.latex?&space;-1" title=" "/> or <img src="https://latex.codecogs.com/svg.latex?&space;2" title=" "/>.
 
 <div align="center"> 
-  <img src="image/Quintic.jpg" alt="Ellipsoidal" height="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="image/Quintic.jpg" alt="Quintic" height="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="image/quintic_error_plot.jpg" alt="error" height="380"/>
 </div>
 
