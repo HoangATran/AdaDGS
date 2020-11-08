@@ -1,6 +1,6 @@
 ## Schwefel function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(x)=418.9829d-\sum_{i=1}^d{x_i}\sin(\sqrt{|x_i|})" title="Schwefel" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(x)=418.9829d-\sum_{i=1}^d{x_i}\sin(\sqrt{|x_i|})." title="Schwefel" /> </div>
 
 The Schwefel function represents multimodal landscapes with no global structure. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-500,500]^d" title=" "/>.
