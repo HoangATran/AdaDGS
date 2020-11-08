@@ -7,7 +7,7 @@ The Schubert function represents multimodal, periodic landscapes with multiple g
 - Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=-14.838d" title=" "/> &nbsp; with &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;3^d" title=" "/> different solutions.
 
 <div align="center"> 
-  <img src="image/Schwefel.jpg" alt="Schubert" height="400"/> 
+  <img src="image/Schubert.jpg" alt="Schubert" height="400"/> 
   <! <img src="image/schubert_error_plot.jpg" alt="error" height="380"/>/>
 </div>
 
