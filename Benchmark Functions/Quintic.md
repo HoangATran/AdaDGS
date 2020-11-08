@@ -1,6 +1,6 @@
 ## Quintic function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^d|x_i^5-3x_i^4+4x_i^3+2x_i^2-10x_i-4|" title="Quintic"/>. </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^d|x_i^5-3x_i^4+4x_i^3+2x_i^2-10x_i-4|." title="Quintic"/> </div>
 
 The Quintic function represents multimodal landscapes with global structure.
 
