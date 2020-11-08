@@ -1,6 +1,6 @@
 ## Schaffer function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\frac{1}{d-1}(\sum_{i=1}^{d-1}(\sqrt{s_i}+\sqrt{s_i}\sin^2(50s_i^{\frac{1}{5}})))^2\text{with}\quad{s_i}=\sqrt{x_i^2+x_{i+1}^2}." title="Schaffer"/> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\frac{1}{d-1}(\sum_{i=1}^{d-1}(\sqrt{s_i}+\sqrt{s_i}\sin^2(50s_i^{\frac{1}{5}})))^2\quad\text{with}\quad{s_i}=\sqrt{x_i^2+x_{i+1}^2}." title="Schaffer"/> </div>
 
 The Schaffer function represents highly multimodal landscapes.  
 
