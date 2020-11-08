@@ -1,6 +1,6 @@
 ## Styblinsky-Tang function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(x)=\frac{1}{2}\sum_{i=1}^d(x_i^4-16x_i^2+5x_i)." title="Styblinsky" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\frac{1}{2}\sum_{i=1}^d(x_i^4-16x_i^2+5x_i)." title="Styblinsky" /> </div>
 
 The Styblinsky-Tang function represents multimodal landscapes with global structure. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-5,5]^d" title=" "/>.
