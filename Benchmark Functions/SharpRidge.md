@@ -9,7 +9,7 @@ The Sharp Ridge function represents convex and anisotropic landscapes. There is 
 
 <div align="center"> 
   <img src="image/SharpRidge.jpg" alt="SharpRidge" height="400"/> 
-  <img src="image/sharp_error_plot.jpg" alt="error" height="380"/>
+  <img src="image/Sharp_error_plot.jpg" alt="error" height="380"/>
 </div>
 
 
