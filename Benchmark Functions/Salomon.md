@@ -8,6 +8,7 @@ The Salomon function represents multimodal landscapes with global structure.
 
 <div align="center"> 
   <img src="image/Salomon.jpg" alt="Salomon" height="400"/> 
+  <img src="image/salomon_error_plot.jpg" alt="error" height="380"/>
 </div>
 
 
