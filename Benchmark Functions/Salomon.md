@@ -1,6 +1,6 @@
 ## Salomon function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=1-\cos(2\pi\sqrt{\sum_{i=1}^d{z_i^2}})+0.1\sqrt{\sum_{i=1}^d{z_i^2}}." title="Salomon"/> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=1-\cos\biggl(2\pi\sqrt{\sum_{i=1}^d{z_i^2}}\biggl)+0.1\sqrt{\sum_{i=1}^d{z_i^2}}." title="Salomon"/> </div>
 
 The Salomon function represents multimodal landscapes with global structure. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-100,100]^d" title=" "/>.
