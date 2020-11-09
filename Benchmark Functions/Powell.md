@@ -1,6 +1,6 @@
 ## Powell function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?f(\mathbf{x})=\sum_{i=1}^{d/4}[(x_{4i-3}+10x_{4i-2})^2+5(x_{4i-1}-x_{4i})^2+(x_{4i-2}-2x_{4i-1})^4+10(x_{4i-3}-x_{4i})^4]" title="Powell" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?{f(\mathbf{x})=\sum_{i=1}^{d/4}[(x_{4i-3}+10x_{4i-2})^2+5(x_{4i-1}-x_{4i})^2+(x_{4i-2}-2x_{4i-1})^4+10(x_{4i-3}-x_{4i})^4]}" title="Powell" /> </div>
 
 The Powell function represents {\em convex} landscapes, where the area that contains global minimum are very small.
 
