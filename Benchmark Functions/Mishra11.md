@@ -1,6 +1,6 @@
 ## Mishra 11 function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\biggl[\frac{1}{d}\sum_{i=1}^d|x_i|-(\prod_1^d|x_i|)^{\frac{1}{d}}\biggl]^2." title="Mishra" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\biggl[\frac{1}{d}\sum_{i=1}^d|x_i|-(\prod_{i=1}^d|x_i|)^{\frac{1}{d}}\biggl]^2." title="Mishra" /> </div>
 
 The Mishra function represents multimodal landscapes with infinitely many global optima. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-3,3]^d" title=" "/>.
