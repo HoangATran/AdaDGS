@@ -4,7 +4,7 @@
 
 The Styblinsky-Tang function represents multimodal landscapes with global structure. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-5,5]^d" title=" "/>.
-- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=-39.166^d" title=" "/> &nbsp; at &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}_{opt}=(-2.903534,\cdots,-2.903534)" title=" "/>.
+- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=-39.166d " title=" "/> &nbsp; at &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}_{opt}=(-2.903534,\cdots,-2.903534)" title=" "/>.
 
 <div align="center"> 
   <img src="image/Styblinsky.jpg" alt="Styblinsky" height="400"/> 
