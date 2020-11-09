@@ -7,8 +7,8 @@ The Mishra function represents multimodal landscapes with infinitely many global
 - Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0" title=" "/> &nbsp; with multiple solutions along the lines <img src="https://latex.codecogs.com/svg.latex?&space;|x_1|=|x_2|=\ldots=|x_d|" title=" "/>.
 
 <div align="center"> 
-  <img src="image/Mishra.jpg" alt="Mishta" height="400"/> 
-  <! <img src="image/mishra_error_plot.jpg" alt="error" height="380"/> 
+  <img src="image/Langermann.jpg" alt="Langermann" height="400"/> 
+  <! <img src="image/langermann_error_plot.jpg" alt="error" height="380"/> 
 </div>
 
 
