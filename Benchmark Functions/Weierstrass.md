@@ -8,7 +8,7 @@ where <img src="https://latex.codecogs.com/svg.latex?&space;a=0.5,b=3,kmax=20" t
 
 <div align="center"> 
   <img src="image/Weierstrass.jpg" alt="Weierstrass" height="400"/> 
-  <! <img src="image/weierstrass_error_plot.jpg" alt="error" height="380"/> >
+  <! <img src="image/weierstrass_error_plot.jpg" alt="error" height="380"/> 
 </div>
 
 
