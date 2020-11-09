@@ -1,6 +1,6 @@
 ## Langermann function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^m{c_i}\exp\biggl(-\frac{1}{\pi}\sum_{j=1}^d(x_j-A_{ij})^2\biggl)\cos\biggl(-\pi\sum_{j=1}^d(x_j-A_{ij})^2\biggl)." title="Langermann" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^m{c_i}\exp\biggl(-\frac{1}{\pi}\sum_{j=1}^d(x_j-A_{ij})^2\biggl)\cos\biggl(\pi\sum_{j=1}^d(x_j-A_{ij})^2\biggl)." title="Langermann" /> </div>
 
 The Langermann function represents multimodal landscapes with unevenly distributed local minima. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-3,3]^d" title=" "/>.
