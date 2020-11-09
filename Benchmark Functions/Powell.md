@@ -5,5 +5,5 @@
 The Powell function represents {\em convex} landscapes, where the area that contains global minimum are very small.
 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-4,5]^d" title=" "/>.
-- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0" title=" "/> &nbsp; with multiple solutions.
+- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0" title=" "/> &nbsp; at &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}_{opt}=(0,\ldots,0)" title=" "/>.
 
