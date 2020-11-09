@@ -1,6 +1,6 @@
 ## Wavy function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=1-\frac{1}{d}\sum_{i=1}^d\cos(10z_i)\exp\biggl({\frac{-z_i^2}{2}}\biggl)." title="Wavy" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=1-\frac{1}{d}\sum_{i=1}^d\cos({10}z_i)\exp({\frac{-x_i^2}{2}})." title="Wavy"/> </div>
 
 The Wavy function represents multimodal landscapes with no global structure. 
 - Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-\pi,\pi]^d" title=" "/>.
