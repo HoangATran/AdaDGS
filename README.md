@@ -30,6 +30,8 @@ The functions listed below are some of the common functions and datasets used fo
 - [Langermann function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Langermann.md)
 - [Powell function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Powell.md)
 - [Deb function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Deb.md)
+- [Michalewicz function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Michalewicz.md)
+- [Wavy function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Wavy.md)
 
 ### Related papers 
 
