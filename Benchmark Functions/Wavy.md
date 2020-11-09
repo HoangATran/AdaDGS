@@ -1,13 +1,13 @@
-## Styblinsky-Tang function
+## Wavy function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\frac{1}{2}\sum_{i=1}^d(x_i^4-16x_i^2+5x_i)." title="Styblinsky" /> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=1-\frac{1}{d}\sum_{i=1}^d\cos(10z_i)\exp\biggl({\frac{-z_i^2}{2}}\biggl)." title="Wavy" /> </div>
 
-The Styblinsky-Tang function represents multimodal landscapes with global structure. 
-- Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-5,5]^d" title=" "/>.
-- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=-39.166d " title=" "/> &nbsp; at &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}_{opt}=(-2.903534,\cdots,-2.903534) " title=" "/>.
+The Wavy function represents multimodal landscapes with no global structure. 
+- Initial search domain: <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}\in[-\pi,\pi]^d" title=" "/>.
+- Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0 " title=" "/> &nbsp; at &nbsp; <img src="https://latex.codecogs.com/svg.latex?&space;\mathbf{x}_{opt}=(0,\ldots,0) " title=" "/>.
 
 <div align="center"> 
-  <img src="image/Styblinsky.jpg" alt="Styblinsky" height="400"/> 
-  <img src="image/styb_error_plot.jpg" alt="error" height="380"/>
+  <img src="image/Wavy.jpg" alt="Wavy" height="400"/> 
+  <img src="image/wavy_error_plot.jpg" alt="error" height="380"/>
 </div>
 
