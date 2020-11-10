@@ -7,7 +7,7 @@ where <img src="https://latex.codecogs.com/svg.latex?&space;a=0.5,b=3,kmax=20" t
 - Global minimum: <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x}_{opt})=0" title=" "/> &nbsp; with multiple solutions.
 
 <div align="center"> 
-  <img src="image/SchafferF6.jpg" alt="SchafferF6" height="400"/> 
+  <img src="image/Schaffer_F6.jpg" alt="SchafferF6" height="400"/> 
   <! <img src="image/schafferF6_error_plot.jpg" alt="error" height="380"/> 
 </div>
 
