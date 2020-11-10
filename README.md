@@ -10,6 +10,9 @@ This repository contains Python code for testing Directional Gaussian smoothing 
 ### Benchmark functions 
 
 The functions listed below are some of the common functions and datasets used for testing optimization algorithms. They are grouped according to similarities in their significant physical properties and shapes. Each page contains information about the corresponding function or dataset. 
+
+<div class="row">
+  <div class="column">
 - [Ackley function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Ackley.md)
 - [Alpine function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Alpine.md)
 - [Bent Cigar function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/BentCigar.md)
@@ -31,6 +34,8 @@ The functions listed below are some of the common functions and datasets used fo
 - [Qing function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Qing.md)
 - [Quintic function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Quintic.md)
 - [Rastrigin function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Rastrigin.md)
+  </div>
+  <div class="column"></div>
 - [Ripple function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Ripple.md)
 - [Rosenbrock function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Rosenbrock.md)
 - [Salomon function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Salomon.md)
@@ -51,6 +56,7 @@ The functions listed below are some of the common functions and datasets used fo
 - [Weierstrass function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Weierstrass.md)
 - [Xin-She Yang function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/XinSheYang.md)
 - [Zakharov function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Zakharov.md)
+  </div>
 
 ### Related papers 
 
