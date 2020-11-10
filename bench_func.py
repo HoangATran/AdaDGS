@@ -249,4 +249,9 @@ def powell_m(x,dim):
 #...............................................................................
 def deb_m(x,dim): 
     return -sum((sin(5*pi*x))**6,axis=1)/dim
+
+def zakharov_m(x,dim): 
+    mat = np.arange(dim)
+    mat = np.matlib.repmat(mat,np.shape(x)[0],1)
+    return sum(x**2,axis=1) + sum(0.5*x*mat,axis=1)**2 + sum(0.5*x*mat,axis=1)**4 
         

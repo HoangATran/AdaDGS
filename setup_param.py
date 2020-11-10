@@ -11,7 +11,7 @@ from cma import bbobbenchmarks as bn
 import numpy as np
 from numpy import pi
 
-test_fun = 3
+test_fun = 124
 
 # Choose the test function accroding to the list. The preferred hyper-parameters are included in each case. 
 
@@ -41,6 +41,7 @@ test_fun = 3
 # 21: Langermann
 # 22: Powell
 # 23: Deb
+# 24: Levy 
 
 
 #------------------------------
@@ -93,10 +94,10 @@ if test_fun == 1:
     x_opt = np.zeros((1,dim))  
         
 elif test_fun == 2:
-    f_name = 'Rastrigin6000D'
+    f_name = 'Rastrigin2000D'
     fun_m = bench_func.rastrigin_m
     bound = [-5.12, 5.12]
-    dim = 6000
+    dim = 2000
 #    GH_pts = 21
     GH_pts = 5
     lr_init = 0.5        
@@ -110,10 +111,10 @@ elif test_fun == 2:
     x_opt = np.zeros((1,dim))
         
 elif test_fun == 3:
-    f_name = 'ackley6000D'
+    f_name = 'ackley2000D'
     fun_m = bench_func.ackley_m
     bound = [-32.5, 32.5]
-    dim = 6000                   
+    dim = 2000                   
 #    GH_pts = 3
 #    lr_init = 8000        
 #    lr_end = 0.001
@@ -792,6 +793,21 @@ elif test_fun == 123:
     rr_decay = 2      
     n_iter = 60
     x_opt = np.zeros((1,dim))   # periodic
+    
+elif test_fun == 124:
+    f_name = 'Levy1000D' 
+    fun_m = bench_func.levy_m
+    bound = [-10, 10]
+    dim = 1000
+    GH_pts = 5
+    lr_init = 2      
+    lr_end = 0.02
+    lr_decay = 2           
+    rr_init = 2      
+    rr_end = 0.02          
+    rr_decay = 2      
+    n_iter = 60
+    x_opt = np.zeros((1,dim))  
     
 #-------------------------------------------------------
 
