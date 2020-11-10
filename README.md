@@ -13,7 +13,7 @@ The functions listed below are some of the common functions and datasets used fo
 
 <table border="0">
 <tr>
-   <td>
+<td>
 - [Ackley function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Ackley.md)
 - [Alpine function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Alpine.md)
 - [Bent Cigar function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/BentCigar.md)
@@ -57,7 +57,7 @@ The functions listed below are some of the common functions and datasets used fo
 - [Weierstrass function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Weierstrass.md)
 - [Xin-She Yang function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/XinSheYang.md)
 - [Zakharov function](https://github.com/HoangATran/Directional-Gaussian-smoothing/blob/main/Benchmark%20Functions/Zakharov.md)
- </td>
+</td>
 </tr>
 </table>
 
