@@ -12,7 +12,7 @@ The local gradient points to the direction of the steepest slope in an infinites
 </div>
 
 
-### Features
+### Features of the code
 - Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
 - Gauss-Hermite quadrature for approximating DGS gradient
 - Backtracking line search for adaptively updating smoothing radius and step size 
