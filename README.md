@@ -19,7 +19,11 @@ The local gradient points to the direction of the steepest slope in an infinites
 - Backtracking line search for adaptively updating smoothing radius and step size 
 
 ### AdaDGS codes
-This is the code to run AdaDGS algorithm on high-dimensional benchmark functions
+This is the example code to run AdaDGS algorithm on high-dimensional benchmark functions
+
+'''
+python AdaDGS.py --f_name='ackley'
+'''
 
 ### Benchmark functions 
 
