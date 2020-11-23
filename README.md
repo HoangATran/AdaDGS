@@ -21,9 +21,9 @@ The local gradient points to the direction of the steepest slope in an infinites
 ### AdaDGS codes
 This is the example code to run AdaDGS algorithm on high-dimensional benchmark functions
 
-'''
+```
 python AdaDGS.py --f_name='ackley'
-'''
+```
 
 ### Benchmark functions 
 
