@@ -51,9 +51,14 @@ parser.add_argument('--f_name', default=None, help='function name')
 parser.add_argument('--dim', default=1000, type=int, help='dimension (default: 1000)')
 parser.add_argument('--n_iter', default=None, type=int, help='number of iterations (default: 10-200 depending on test functions)')
 parser.add_argument('--num_trial', default=20, type=int, help='number of trials (default: 20)')
-parser.add_argument('--translation', action='store_false', default=True, help='random translation (default: True)')
-parser.add_argument('--rotation', action='store_false', default=True, help='random translation (default: True)')
+
 parser.add_argument('--save', action='store_true', default=False, help='save results (default: False)')
+parser.add_argument('--translation', dest='translation', action='store_true')
+parser.add_argument('--no-translation', dest='translation', action='store_false')
+parser.set_defaults(translation=True)
+parser.add_argument('--rotation', dest='rotation', action='store_true')
+parser.add_argument('--no-rotation', dest='rotation', action='store_false')
+parser.set_defaults(rotation=True)
 
 args = parser.parse_args()
 

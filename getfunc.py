@@ -90,7 +90,7 @@ def getfunc(f_name,dim,n_iter_args):
         
         
     elif f_name.lower() == 'salomon':
-        fun_m = bench_func.solomon_m
+        fun_m = bench_func.salomon_m
         bound = [-100, 100]
         x_opt = np.zeros((1,dim)) 
         n_iter=60 if n_iter_args is None else n_iter_args
