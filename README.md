@@ -13,11 +13,13 @@ The local gradient points to the direction of the steepest slope in an infinites
 </div>
 
 
-### Features of the code
+### Features 
 - Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
 - Gauss-Hermite quadrature for approximating DGS gradient
 - Backtracking line search for adaptively updating smoothing radius and step size 
-- (Optional) Random generation of smoothing directions to enhance exploration 
+
+### AdaDGS codes
+This is the code to run AdaDGS algorithm on high-dimensional benchmark functions
 
 ### Benchmark functions 
 
