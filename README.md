@@ -11,6 +11,7 @@ The local gradient points to the direction of the steepest slope in an infinites
   </div>
 </figure>
 
+<div align="center"> 
 <figure>
   <p><img src="Benchmark Functions/image/DGS_illustration.png"
     width="136" height="200"
@@ -19,6 +20,7 @@ The local gradient points to the direction of the steepest slope in an infinites
     Eiffel tower in
     Parc Mini-France</figcaption>
 </figure>
+</div>
 
 
 ### Features
