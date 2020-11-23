@@ -13,9 +13,7 @@ The local gradient points to the direction of the steepest slope in an infinites
 
 <div align="center"> 
 <figure>
-  <p><img src="Benchmark Functions/image/DGS_illustration.png"
-    width="136" height="200"
-    alt="Eiffel tower">
+  <p><img src="Benchmark Functions/image/DGS_illustration.png" alt="DGS_gradient illustration" height="400">
   <figcaption>Scale model of the
     Eiffel tower in
     Parc Mini-France</figcaption>
