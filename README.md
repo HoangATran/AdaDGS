@@ -11,6 +11,15 @@ The local gradient points to the direction of the steepest slope in an infinites
   </div>
 </figure>
 
+<figure>
+  <p><img src="Benchmark Functions/image/DGS_illustration.png"
+    width="136" height="200"
+    alt="Eiffel tower">
+  <figcaption>Scale model of the
+    Eiffel tower in
+    Parc Mini-France</figcaption>
+</figure>
+
 
 ### Features
 - Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
