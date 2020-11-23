@@ -19,11 +19,12 @@ The local gradient points to the direction of the steepest slope in an infinites
 - Backtracking line search for adaptively updating smoothing radius and step size 
 
 ### AdaDGS codes
-This is the example code to run AdaDGS algorithm on high-dimensional benchmark functions
+This is the example code to run AdaDGS algorithm for optimizing high-dimensional benchmark functions
 
 ```
 python AdaDGS.py --f_name='ackley'
 ```
+The above code will test the performance of AdaDGS on Ackley function. The list of benchmark functions currently supported by our code is shown below. By default, the function dimension is 1000, number of trials is 20, number of iterations varying from 10-200 depending on the function (see the function's page for details). We apply a random translation and then a random rotation to make the problem more general. 
 
 ### Benchmark functions 
 
