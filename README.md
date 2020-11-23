@@ -70,4 +70,4 @@ The functions listed below are some of the common functions and datasets used fo
 
 [2] H. Tran, G. Zhang, [AdaDGS: An adaptive black-box optimization method with a nonlocal directional Gaussian smoothing gradient](https://arxiv.org/abs/2011.02009), arXiv:2011.02009, 2020.
 
-[3] J. Zhang, S. Bi, and G. Zhang, A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics, <b>Materials & Design</b>, 197 (1), pp. 109213, 2021.
+[3] J. Zhang, S. Bi, and G. Zhang, [A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics](https://www.sciencedirect.com/science/article/pii/S0264127520307486), <b>Materials & Design</b>, 197 (1), pp. 109213, 2021.
