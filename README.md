@@ -4,14 +4,11 @@ This repository contains Python code for testing adaptive Directional Gaussian s
 The local gradient points to the direction of the steepest slope in an infinitesimal neighborhood. An optimizer guided by the local gradient is often trapped in local optima when the loss landscape is multi-modal. A directional Gaussian smoothing (DGS) approach was recently proposed in [1] and used to define a truly nonlocal gradient, referred to as the DGS gradient, for high-dimensional black-box optimization. Promising results show that replacing the traditional local gradient with the DGS gradient can significantly improve the performance of gradient-based methods in optimizing highly multi-modal functions with global structures. However, the optimal performance of the DGS gradient may rely on fine tuning of two important hyper-parameters, i.e., the smoothing radius and the learning rate. In this paper, we present a simple, yet ingenious and efficient adaptive approach for optimization with the DGS gradient, which removes the need of hyper-parameter fine tuning. Since the DGS gradient generally points to a good search direction, we perform a line search along the DGS direction to determine the step size at each iteration. The learned step size in turn will inform us of the scale of function landscape in the surrounding area, based on which we adjust the smoothing radius accordingly for the next iteration. We present experimental results on high-dimensional benchmark functions, an airfoil design problem and a game content generation problem. The AdaDGS method has shown superior performance over several the state-of-the-art black-box optimization methods.
 
 <div align="center"> 
-  <img src="Benchmark Functions/image/DGS_illustration.png" alt="DGS_gradient illustration" height="400"/> 
-  <! <img src="image/bent_error_plot.jpg" alt="error" height="380"/> 
-</div>
-
 <figure class="image">
   <img src="Benchmark Functions/image/DGS_illustration.png" alt="DGS_gradient illustration" height="400"/> 
-  <figcaption>{{ include.description }}</figcaption>
+  <figcaption>{Illustration of the nonlocal explorationcapability of our DGS gradient. In the central plot,the blue arrow points to the local gradient directionand the red arrow points to the DGS gradient direc-tion. The top and right plots show the directionallysmoothed functions along the two axes. Becausethe DGS gradient captures the nonlocal features of F(x), it can point to a direction much closer to theglobal minimum than the local gradient.}</figcaption>
 </figure>
+</div>
 
 ### Features
 - Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
