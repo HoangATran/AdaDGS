@@ -205,7 +205,7 @@ for itry in range(num_trial):
         upd = np.abs(f_value[-1] - f_value[-2])
         rel_upd = np.abs(f_value[-1] - f_value[-2])/np.abs(f_value[-2])
 
-        print(j+1, num_eval, fnew, norm_grad, step, rr) 
+        print(j+1, num_eval, fnew) 
             
         X_center = xnew
          
