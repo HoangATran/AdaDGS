@@ -69,3 +69,5 @@ The functions listed below are some of the common functions and datasets used fo
 [1] J. Zhang, H. Tran, D. Lu, G. Zhang, [A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization](https://arxiv.org/pdf/2002.03001.pdf), arXiv:2002.03001, 2020. 
 
 [2] H. Tran, G. Zhang, [AdaDGS: An adaptive black-box optimization method with a nonlocal directional Gaussian smoothing gradient](https://arxiv.org/abs/2011.02009), arXiv:2011.02009, 2020.
+
+[3] J. Zhang, S. Bi, and G. Zhang, A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics, Materials & Design, 197 (1), pp. 109213, 2021.
