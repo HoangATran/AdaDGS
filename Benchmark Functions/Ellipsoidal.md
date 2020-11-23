@@ -1,6 +1,6 @@
 ## Ellipsoidal function
 
-<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^{d}10^{6\frac{i-1}{d-1}}x_i^2" title="Ellipsoidal"/> </div>
+<div align="center"> <img src="https://latex.codecogs.com/svg.latex?&space;f(\mathbf{x})=\sum_{i=1}^{d}10^{6\frac{i-1}{d-1}}{x_i^2}" title="Ellipsoidal"/> </div>
 
 The Ellipsoidal function represents convex and highly ill-conditioned landscapes. 
 
