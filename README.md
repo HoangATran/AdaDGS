@@ -7,7 +7,7 @@ The local gradient points to the direction of the steepest slope in an infinites
 <div align="center"> 
 <figure>
   <p><img src="Benchmark Functions/image/DGS_illustration.png" alt="DGS_gradient illustration" height="400">
-  <figcaption> Figure 1: Illustration of the nonlocal exploration capability of the DGS gradient in [1] in minimizing a multi-modal function F(x). In the central plot,the blue arrow points to the local gradient direction and the red arrow points to the DGS gradient direction. The top and right plots show the directionally smoothed loss functions along the two axes. Because the DGS gradient captures the global structure of F(x), it can point to a direction much closer to the global minimum than the local gradient.</figcaption>
+  <figcaption> <b>Figure 1</b>: Illustration of the nonlocal exploration capability of the DGS gradient in [1] in minimizing a multi-modal function F(x). In the central plot,the blue arrow points to the local gradient direction and the red arrow points to the DGS gradient direction. The top and right plots show the directionally smoothed loss functions along the two axes. Because the DGS gradient captures the global structure of F(x), it can point to a direction much closer to the global minimum than the local gradient.</figcaption>
 </figure>
 </div>
 
