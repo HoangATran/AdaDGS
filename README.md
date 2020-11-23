@@ -30,7 +30,7 @@ The above code will test the performance of AdaDGS on Ackley function. The list 
 - --num_trial: number of trials 
 - --no-translation: do not apply random translation on test function
 - --no-rotation: do not apply random rotation on test function 
-- --save: save the results 
+- --save: save the results to file
 
 For example, the command 
 ```
