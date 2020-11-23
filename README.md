@@ -8,6 +8,11 @@ The local gradient points to the direction of the steepest slope in an infinites
   <! <img src="image/bent_error_plot.jpg" alt="error" height="380"/> 
 </div>
 
+<figure class="image">
+  <img src="Benchmark Functions/image/DGS_illustration.png" alt="DGS_gradient illustration" height="400"/> 
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
 ### Features
 - Directionally smoothing objective functions with Gaussian kernel for nonlocal exploration in each direction  
 - Gauss-Hermite quadrature for approximating DGS gradient
