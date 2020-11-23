@@ -24,7 +24,7 @@ This is the example code to run AdaDGS algorithm for optimizing high-dimensional
 ```
 python AdaDGS.py --f_name='ackley'
 ```
-The above code will test the performance of AdaDGS on Ackley function. The list of benchmark functions currently supported by our code is shown below. By default, the function dimension is 1000, number of trials is 20, number of iterations varying from 10-200 depending on the function (see the function's page for details). We apply a random translation and then a random rotation to make the problem more general. The user can customize their test using the following flags: 
+The above code will test the performance of AdaDGS on Ackley function. The list of benchmark functions currently supported by our code is shown below. By default, the function dimension is 1000, number of trials is 20, number of iterations varying from 10-200 depending on the function (see the function's page for details). We apply a random translation and then a random rotation to make the problem more general. User can customize the test using the following flags: 
 - --dim: function dimension 
 - --n_iter: number of iterations
 - --num_trial: number of trials 
