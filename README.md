@@ -36,7 +36,7 @@ For example, the command
 ```
 python AdaDGS.py --f_name='sharpridge' --dim=2000 --n_iter=60 --num_trial=2 --no-rotation --no-translation --save
 ```
-will run 2 trials of AdaDGS for 2000D Sharp Ridge functions. The number of iterations for each trials is 60. We do not apply random rotation and translation to the benchmark. The result are saved to folder 'results'. 
+will run 2 trials of AdaDGS for 2000D Sharp Ridge functions. The number of iterations for each trial is 60. We do not apply random rotation and translation to the benchmark. The result are saved to folder 'results'. 
 
 ### Benchmark functions 
 
